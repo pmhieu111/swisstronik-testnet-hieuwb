@@ -6,7 +6,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 1. Clone the Repository:
 
 ```css
-git clone https://github.com/pmhieu111/swisstronik-testnet-hieuwb
+git clone https://github.com/pmhieu111/swisstronik-testnet-hieuwb.git
 cd swisstronik-testnet
 ```
 2. Run the Setup Script:
